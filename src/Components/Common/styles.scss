@@ -1,0 +1,9 @@
+@import './../../Assets/scss/main.scss';
+
+
+h1 {
+  color: $primaryColor;
+  margin-top: 50px!important;
+  margin-bottom: 50px!important;
+  font-family: $mainFamilyFont;
+}

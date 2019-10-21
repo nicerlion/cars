@@ -1,0 +1,27 @@
+@import './../../Assets/scss/main.scss';
+
+.comparison-box {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  position: fixed;
+  flex-direction: row;
+  background-color: #fff;
+
+  > div {
+    flex: 1;
+  }
+
+  img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+  }
+
+  .x-btn-comp {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+}

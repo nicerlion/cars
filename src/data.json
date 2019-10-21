@@ -1,0 +1,1938 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "year": 2008,
+      "brand": "Seat",
+      "model": "Alhambra 1",
+      "price": 15472.894444598558,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "id": 2,
+      "brand": "Seat",
+      "model": "Alhambra",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "year": 2011,
+      "price": 18867.090203043244,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "id": 3,
+      "brand": "Seat",
+      "model": "Altea",
+      "image": "http://softcompany.co/images/edited-2019-Acura-RDX-Autotrader-Best-New-Cars-2019.jpg",
+      "year": 2005,
+      "price": 8522.569356200263,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Altea XL",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 4,
+      "year": 2011,
+      "price": 8117.5818150871955,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Arosa",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 5,
+      "year": 1999,
+      "price": 1544.4530544090103,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Cordoba",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 6,
+      "year": 2000,
+      "price": 19879.29884373702,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Cordoba Vario",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 7,
+      "year": 2019,
+      "price": 16409.303281600358,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Exeo",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 8,
+      "year": 2012,
+      "price": 2828.822829786908,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 9,
+      "year": 2005,
+      "price": 11812.955981153376,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Ibiza ST",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 10,
+      "year": 2008,
+      "price": 13827.87411283978,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Exeo ST",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 11,
+      "year": 2000,
+      "price": 18010.538190495452,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 12,
+      "year": 1998,
+      "price": 21910.893355538894,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Leon ST",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 13,
+      "year": 2005,
+      "price": 14595.213418893774,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Inca",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 14,
+      "year": 2007,
+      "price": 21031.315769459048,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Mii",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 15,
+      "year": 2013,
+      "price": 4962.89416502327,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Seat",
+      "model": "Toledo",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 16,
+      "year": 2001,
+      "price": 28493.487009132725,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Captur",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 17,
+      "year": 2000,
+      "price": 16429.354015020086,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Clio",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 18,
+      "year": 2014,
+      "price": 3887.1330853919094,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Clio Grandtour",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 19,
+      "year": 2013,
+      "price": 13619.027050985482,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Espace",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 20,
+      "year": 2011,
+      "price": 11014.169705937455,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Express",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 21,
+      "year": 2006,
+      "price": 8760.092724189162,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Fluence",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 22,
+      "year": 2011,
+      "price": 22765.763969185227,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Grand Espace",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 23,
+      "year": 2006,
+      "price": 24884.726224157097,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Grand Modus",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 24,
+      "year": 2004,
+      "price": 20676.02590781851,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Grand Scenic",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 25,
+      "year": 2004,
+      "price": 1378.5011981866849,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Kadjar",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 26,
+      "year": 2016,
+      "price": 24272.461260413816,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Kangoo",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 27,
+      "year": 2012,
+      "price": 21670.311024391252,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Kangoo Express",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 28,
+      "year": 2001,
+      "price": 14467.172663946038,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Koleos",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 29,
+      "year": 2019,
+      "price": 3212.330821871279,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Laguna",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 30,
+      "year": 2001,
+      "price": 23139.50777931235,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Laguna Grandtour",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 31,
+      "year": 2009,
+      "price": 9141.71375680517,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Latitude",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 32,
+      "year": 2001,
+      "price": 4471.588090319426,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mascott",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 33,
+      "year": 1996,
+      "price": 17631.42382656834,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 34,
+      "year": 2010,
+      "price": 15812.9857512673,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane CC",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 35,
+      "year": 2011,
+      "price": 25252.530823171055,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane Combi",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 36,
+      "year": 2006,
+      "price": 21441.19200403392,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane Grandtour",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 37,
+      "year": 1999,
+      "price": 6946.165818972756,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane Coupé",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 38,
+      "year": 2017,
+      "price": 19124.037038096594,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane Scénic",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 39,
+      "year": 2017,
+      "price": 16414.071100788373,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Scénic",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 40,
+      "year": 2015,
+      "price": 24713.61650579428,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Talisman",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 41,
+      "year": 2010,
+      "price": 11700.711863781602,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Talisman Grandtour",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 42,
+      "year": 2009,
+      "price": 12375.93070458246,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Thalia",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 43,
+      "year": 2005,
+      "price": 21176.705192830403,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Twingo",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 44,
+      "year": 1996,
+      "price": 11645.21626539448,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Wind",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 45,
+      "year": 1998,
+      "price": 5232.978763450117,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Renault",
+      "model": "Zoé",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 46,
+      "year": 1998,
+      "price": 2665.238364983988,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "1007",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 47,
+      "year": 2004,
+      "price": 3678.191624877453,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "107",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 48,
+      "year": 1996,
+      "price": 21242.98735569355,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "106",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 49,
+      "year": 2018,
+      "price": 1912.2194833014737,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "108",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 50,
+      "year": 2002,
+      "price": 16282.975487214822,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "2008",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 51,
+      "year": 2004,
+      "price": 12435.892067713137,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "205",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 52,
+      "year": 1997,
+      "price": 11733.238349761461,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "205 Cabrio",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 53,
+      "year": 2001,
+      "price": 5138.9881918798765,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "206",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 54,
+      "year": 2008,
+      "price": 21218.933633230175,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "206 CC",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 55,
+      "year": 2018,
+      "price": 21653.41699026521,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "206 SW",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 56,
+      "year": 2015,
+      "price": 1749.460426823264,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 57,
+      "year": 2016,
+      "price": 14971.154058311802,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207 CC",
+      "image": "http://softcompany.co/images/edited-2019bmwi8-roadster-01.jpg",
+      "id": 58,
+      "year": 1997,
+      "price": 2174.1128146628885,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "207 SW",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 59,
+      "year": 2003,
+      "price": 3987.5944006384143,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "306",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 60,
+      "year": 2015,
+      "price": 26415.970525727942,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "307",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 61,
+      "year": 2018,
+      "price": 5370.20018520365,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "307 CC",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 62,
+      "year": 2018,
+      "price": 13086.679163512996,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "307 SW",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 63,
+      "year": 2007,
+      "price": 29095.642464985245,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "308",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 64,
+      "year": 2003,
+      "price": 8702.154557986556,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "308 CC",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 65,
+      "year": 2019,
+      "price": 22986.054665097367,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "308 SW",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 66,
+      "year": 2006,
+      "price": 15540.172271729121,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "309",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 67,
+      "year": 2005,
+      "price": 22509.226085855997,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "4007",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 68,
+      "year": 2002,
+      "price": 17052.583745171956,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "4008",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 69,
+      "year": 1997,
+      "price": 6625.880138351697,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "405",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 70,
+      "year": 2015,
+      "price": 3312.6518522433917,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "406",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 71,
+      "year": 2000,
+      "price": 3888.471422715191,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "407",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 72,
+      "year": 2011,
+      "price": 6575.784776883712,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "407 SW",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 73,
+      "year": 2007,
+      "price": 26159.566067172964,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "5008",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 74,
+      "year": 1997,
+      "price": 10132.066185948019,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "508",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 75,
+      "year": 2005,
+      "price": 2287.6837797660237,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "508 SW",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 76,
+      "year": 2015,
+      "price": 12974.53473779846,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "605",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 77,
+      "year": 2012,
+      "price": 27980.83729490415,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "806",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 78,
+      "year": 2008,
+      "price": 6988.569679555229,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "607",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 79,
+      "year": 2010,
+      "price": 22752.735385065935,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "807",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 80,
+      "year": 2015,
+      "price": 6417.003232476327,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "Bipper",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 81,
+      "year": 2003,
+      "price": 5959.971241939427,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Peugeot",
+      "model": "RCZ",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 82,
+      "year": 2013,
+      "price": 8106.571300287491,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Dokker",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 83,
+      "year": 2015,
+      "price": 11495.27011321344,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Duster",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 84,
+      "year": 2006,
+      "price": 15315.584394158346,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Lodgy",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 85,
+      "year": 2000,
+      "price": 27087.194180184648,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Logan",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 86,
+      "year": 2001,
+      "price": 13858.34669766918,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Logan MCV",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 87,
+      "year": 2018,
+      "price": 26651.05738504367,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Logan Van",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 88,
+      "year": 2004,
+      "price": 20861.438299608857,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Sandero",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 89,
+      "year": 1996,
+      "price": 6882.925927992453,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Dacia",
+      "model": "Solenza",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 90,
+      "year": 2008,
+      "price": 15616.525201334647,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Berlingo",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 91,
+      "year": 1996,
+      "price": 18332.65357623661,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C-Crosser",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 92,
+      "year": 2018,
+      "price": 12264.092600246813,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C-Elissée",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 93,
+      "year": 2006,
+      "price": 23650.319244980958,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C-Zero",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 94,
+      "year": 2014,
+      "price": 29196.783741600982,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C1",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 95,
+      "year": 2011,
+      "price": 4733.937151565096,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C2",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 96,
+      "year": 2001,
+      "price": 22687.387932228405,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C3",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 97,
+      "year": 2018,
+      "price": 1737.4448702743555,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C3 Picasso",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 98,
+      "year": 2002,
+      "price": 3341.796143628262,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 99,
+      "year": 2011,
+      "price": 18834.227643646977,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4 Aircross",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 100,
+      "year": 2004,
+      "price": 29300.592137661013,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4 Cactus",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 101,
+      "year": 2012,
+      "price": 17965.661374303465,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4 Coupé",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 102,
+      "year": 2016,
+      "price": 12322.012304929463,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4 Grand Picasso",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 103,
+      "year": 2001,
+      "price": 16922.799684585218,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C4 Sedan",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 104,
+      "year": 2019,
+      "price": 25849.14543104627,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C5",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 105,
+      "year": 2000,
+      "price": 24862.15888439314,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C5 Break",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 106,
+      "year": 2002,
+      "price": 20305.763329650395,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C5 Tourer",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 107,
+      "year": 2010,
+      "price": 13720.749936771574,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C6",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 108,
+      "year": 2007,
+      "price": 12678.868137090101,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "C8",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 109,
+      "year": 2002,
+      "price": 5889.84449462869,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "DS3",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 110,
+      "year": 2000,
+      "price": 16673.914259679306,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "DS4",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 111,
+      "year": 1999,
+      "price": 22149.35042556114,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "DS5",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 112,
+      "year": 2016,
+      "price": 4781.152777744086,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Evasion",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 113,
+      "year": 2002,
+      "price": 27408.954231453205,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Jumper",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 114,
+      "year": 2007,
+      "price": 20583.972887267166,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Jumpy",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 115,
+      "year": 1998,
+      "price": 7876.807497182662,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Saxo",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 116,
+      "year": 1997,
+      "price": 3431.044643520514,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Nemo",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 117,
+      "year": 2019,
+      "price": 19687.63216838871,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Xantia",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 118,
+      "year": 2007,
+      "price": 12733.037322680864,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Citroën",
+      "model": "Xsara",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 119,
+      "year": 2015,
+      "price": 16633.330125869346,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Agila",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 120,
+      "year": 2014,
+      "price": 3558.8246494217883,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Ampera",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 121,
+      "year": 1999,
+      "price": 27117.262868613063,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Antara",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 122,
+      "year": 2016,
+      "price": 17322.71913644702,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 123,
+      "year": 2004,
+      "price": 22428.195569561514,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra cabrio",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 124,
+      "year": 2014,
+      "price": 21055.421218853855,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra caravan",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 125,
+      "year": 2002,
+      "price": 13508.798889712845,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra coupé",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 126,
+      "year": 2006,
+      "price": 13480.70028752042,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Calibra",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 127,
+      "year": 2004,
+      "price": 2191.5976012216247,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Campo",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 128,
+      "year": 2005,
+      "price": 26320.12622417527,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Cascada",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 129,
+      "year": 2017,
+      "price": 15378.352980826407,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Corsa",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 130,
+      "year": 1996,
+      "price": 9205.687492826892,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Frontera",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 131,
+      "year": 1996,
+      "price": 13314.225563240712,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Insignia",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 132,
+      "year": 2009,
+      "price": 13074.967037013199,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Insignia kombi",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 133,
+      "year": 1998,
+      "price": 3675.38991584003,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Kadett",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 134,
+      "year": 2008,
+      "price": 17921.154288668433,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Meriva",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 135,
+      "year": 2018,
+      "price": 25154.88764176168,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Mokka",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 136,
+      "year": 2011,
+      "price": 8866.204104013243,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Movano",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 137,
+      "year": 2005,
+      "price": 8047.684013124833,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Omega",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 138,
+      "year": 2003,
+      "price": 26464.764078633532,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Signum",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 139,
+      "year": 2008,
+      "price": 26321.060502957404,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 140,
+      "year": 2019,
+      "price": 27987.75213685928,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Vectra Caravan",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 141,
+      "year": 2017,
+      "price": 10753.58533751408,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Vivaro",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 142,
+      "year": 2012,
+      "price": 24257.85775754329,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Vivaro Kombi",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 143,
+      "year": 2011,
+      "price": 5894.203890701202,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Opel",
+      "model": "Zafira",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 144,
+      "year": 2009,
+      "price": 23858.36419262696,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "145",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 145,
+      "year": 2017,
+      "price": 10406.495516338891,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "146",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 146,
+      "year": 2010,
+      "price": 29251.87903250495,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "147",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 147,
+      "year": 1996,
+      "price": 29522.163480622243,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "155",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 148,
+      "year": 2013,
+      "price": 26550.913519778438,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "156",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 149,
+      "year": 2013,
+      "price": 19562.45717249165,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "156 Sportwagon",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 150,
+      "year": 2019,
+      "price": 10499.785685096282,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "159",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 151,
+      "year": 2007,
+      "price": 27219.4989848344,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "159 Sportwagon",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 152,
+      "year": 2011,
+      "price": 7838.584760361349,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "164",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 153,
+      "year": 2006,
+      "price": 15277.960556843662,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "166",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 154,
+      "year": 2018,
+      "price": 7406.493831448504,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "4C",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 155,
+      "year": 1999,
+      "price": 27366.101063180606,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Brera",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 156,
+      "year": 1996,
+      "price": 23081.303563295776,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "GTV",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 157,
+      "year": 2000,
+      "price": 8494.53254887589,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "MiTo",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 158,
+      "year": 2011,
+      "price": 3268.5368320795787,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Crosswagon",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 159,
+      "year": 2009,
+      "price": 24909.26110604662,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Spider",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 160,
+      "year": 2014,
+      "price": 11066.831672262091,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "GT",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 161,
+      "year": 2012,
+      "price": 28057.72071644381,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulietta",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 162,
+      "year": 2007,
+      "price": 6201.182770386732,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 163,
+      "year": 1999,
+      "price": 17779.55079399582,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Favorit",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 164,
+      "year": 2006,
+      "price": 18704.94112086222,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Felicia",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 165,
+      "year": 2017,
+      "price": 18875.080859694048,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Citigo",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 166,
+      "year": 2014,
+      "price": 22642.26080353462,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Fabia",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 167,
+      "year": 2015,
+      "price": 8387.076781626298,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Fabia Combi",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 168,
+      "year": 2012,
+      "price": 23984.643336755205,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Fabia Sedan",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 169,
+      "year": 2017,
+      "price": 7944.75839443351,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Felicia Combi",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 170,
+      "year": 2015,
+      "price": 21708.551925664207,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Octavia",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 171,
+      "year": 1998,
+      "price": 12783.359405243937,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Octavia Combi",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 172,
+      "year": 2005,
+      "price": 28520.163445447342,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Roomster",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 173,
+      "year": 2017,
+      "price": 9870.818013812903,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Yeti",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 174,
+      "year": 2013,
+      "price": 27581.651998253525,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Rapid",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 175,
+      "year": 2002,
+      "price": 27712.435367269365,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Rapid Spaceback",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 176,
+      "year": 2003,
+      "price": 6609.764849463715,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Superb",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 177,
+      "year": 2001,
+      "price": 11190.918007465469,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Škoda",
+      "model": "Superb Combi",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 178,
+      "year": 1999,
+      "price": 19542.22551572748,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Alero",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 179,
+      "year": 2003,
+      "price": 14829.400451097097,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Aveo",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 180,
+      "year": 2009,
+      "price": 28780.115064078444,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 181,
+      "year": 2015,
+      "price": 15801.356929446594,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Captiva",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 182,
+      "year": 2000,
+      "price": 12597.903464783107,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 183,
+      "year": 1998,
+      "price": 27307.806352370604,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 184,
+      "year": 2001,
+      "price": 15636.92373394596,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Cruze SW",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 185,
+      "year": 2004,
+      "price": 1995.1765275015232,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Epica",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 186,
+      "year": 2015,
+      "price": 1944.8433077598597,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Equinox",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 187,
+      "year": 2016,
+      "price": 15364.810726186179,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Evanda",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 188,
+      "year": 2017,
+      "price": 22939.48711059662,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "HHR",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 189,
+      "year": 2012,
+      "price": 29503.550172858108,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Kalos",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 190,
+      "year": 2006,
+      "price": 12213.190698121387,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Lacetti",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 191,
+      "year": 2015,
+      "price": 22061.536755205307,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Lacetti SW",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 192,
+      "year": 2008,
+      "price": 28843.32505485564,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Lumina",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 193,
+      "year": 2003,
+      "price": 14276.895045167175,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Malibu",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 194,
+      "year": 2006,
+      "price": 1796.4924275140502,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Matiz",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 195,
+      "year": 2008,
+      "price": 23413.993323145838,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Monte Carlo",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 196,
+      "year": 2007,
+      "price": 9742.354424124702,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Nubira",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 197,
+      "year": 2013,
+      "price": 13536.583612908364,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Orlando",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 198,
+      "year": 2010,
+      "price": 19724.412824829622,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Spark",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 199,
+      "year": 2017,
+      "price": 18412.65222458797,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Suburban",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 200,
+      "year": 2008,
+      "price": 10402.947160398622,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Tacuma",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 201,
+      "year": 2008,
+      "price": 2296.8536601779865,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 202,
+      "year": 2014,
+      "price": 8902.68919448371,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Trax",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 203,
+      "year": 2017,
+      "price": 29941.82098656649,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 Carrera",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 204,
+      "year": 2011,
+      "price": 14639.198215862167,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 Carrera Cabrio",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 205,
+      "year": 2015,
+      "price": 24890.04688036509,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 Targa",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 206,
+      "year": 1998,
+      "price": 27792.03803482108,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 Turbo",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 207,
+      "year": 2002,
+      "price": 23633.810757710304,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "924",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 208,
+      "year": 2009,
+      "price": 1900.2210185304589,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "944",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 209,
+      "year": 2001,
+      "price": 10166.129108837047,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "997",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 210,
+      "year": 2019,
+      "price": 28831.43434329568,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "Boxster",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 211,
+      "year": 2007,
+      "price": 15016.485748794656,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 212,
+      "year": 2015,
+      "price": 8561.043728834264,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "Cayman",
+      "image": "http://softcompany.co/images/edited-hyundai-elantra-lead.jpg",
+      "id": 213,
+      "year": 2017,
+      "price": 18045.02318436142,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "Macan",
+      "image": "http://softcompany.co/images/edited-2018-Ford-Focus.jpg",
+      "id": 214,
+      "year": 2008,
+      "price": 26185.214158059396,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+    },
+    {
+      "brand": "Porsche",
+      "model": "Panamera",
+      "image": "http://softcompany.co/images/auto1.jpg",
+      "id": 215,
+      "year": 2000,
+      "price": 19556.446737414808
+    }
+  ]
+}
